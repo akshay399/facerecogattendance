@@ -1,3 +1,5 @@
+#Folder ImagesAttendance consist of known/registered images which are compared with faces detected on webcam,
+# and time stamp is noted in Attendance.csv
 import cv2
 import numpy as np
 import face_recognition
